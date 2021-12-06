@@ -1,5 +1,7 @@
 # SPOTIFY-HIT-SONG-PREDICTOR
 
+This project is to classify a song as hit or flop using 15 features.  
+
 This is copied from Kaggle  (https://www.kaggle.com/theoverman/the-spotify-hit-predictor-dataset) introdcuitng the basic information of ecah fearure:
 
 - track: The Name of the track.
